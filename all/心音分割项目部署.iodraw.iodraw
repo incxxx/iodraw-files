@@ -37,7 +37,7 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-2" target="YhhXgh1la_clEhTJwIUR-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-2" value="ASPP&lt;div&gt;空洞空间卷积池化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhhXgh1la_clEhTJwIUR-2" value="ASPP&lt;div&gt;空洞空间卷积池化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-3" target="YhhXgh1la_clEhTJwIUR-36">
@@ -58,13 +58,13 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-4" value="BiLSTM&lt;div&gt;双向长短时记忆网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-17" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="YhhXgh1la_clEhTJwIUR-17" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-18" target="PjMvQfAvJv_li9OHeEi7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-18" value="FC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhhXgh1la_clEhTJwIUR-18" value="FC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-30" target="YhhXgh1la_clEhTJwIUR-45">
