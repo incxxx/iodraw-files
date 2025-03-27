@@ -163,8 +163,8 @@
         <mxCell id="Ct_nm53JEw0nofQNc5fy-5" value="Linear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="320" y="850" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ct_nm53JEw0nofQNc5fy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="Ct_nm53JEw0nofQNc5fy-9" value="超向量特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
