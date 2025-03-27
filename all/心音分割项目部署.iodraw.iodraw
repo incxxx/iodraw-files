@@ -5,13 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PjMvQfAvJv_li9OHeEi7-1" value="时域包络特征：hil+homo+psd+wave" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhhXgh1la_clEhTJwIUR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PjMvQfAvJv_li9OHeEi7-2" target="YhhXgh1la_clEhTJwIUR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhhXgh1la_clEhTJwIUR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PjMvQfAvJv_li9OHeEi7-2" target="YhhXgh1la_clEhTJwIUR-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PjMvQfAvJv_li9OHeEi7-2" value="时频域特征：&lt;div&gt;MFCC+delta+delta-delta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PjMvQfAvJv_li9OHeEi7-3" value="超向量特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhhXgh1la_clEhTJwIUR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-1" target="PjMvQfAvJv_li9OHeEi7-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-1" value="K-Means聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="120" height="45" as="geometry" />
