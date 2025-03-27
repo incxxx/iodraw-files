@@ -40,8 +40,11 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-4" value="BiLSTM&lt;div&gt;双向长短时记忆网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="315" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-14" value="K-Means聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhhXgh1la_clEhTJwIUR-14" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhhXgh1la_clEhTJwIUR-15" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
