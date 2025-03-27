@@ -148,8 +148,11 @@
         <mxCell id="Ct_nm53JEw0nofQNc5fy-1" value="LayerNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="320" y="790" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ct_nm53JEw0nofQNc5fy-2" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Ct_nm53JEw0nofQNc5fy-2" value="Dropout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="320" y="820" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct_nm53JEw0nofQNc5fy-3" value="Dropout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
