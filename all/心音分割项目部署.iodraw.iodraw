@@ -24,11 +24,6 @@
             <mxPoint x="540" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PjMvQfAvJv_li9OHeEi7-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PjMvQfAvJv_li9OHeEi7-3" value="超向量特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="355" width="120" height="60" as="geometry" />
         </mxCell>
