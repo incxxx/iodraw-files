@@ -145,8 +145,11 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-55" value="Multihead-Self&lt;div&gt;Attention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ct_nm53JEw0nofQNc5fy-1" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="120" height="30" as="geometry" />
+        <mxCell id="Ct_nm53JEw0nofQNc5fy-1" value="LayerNorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct_nm53JEw0nofQNc5fy-2" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="320" y="820" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
