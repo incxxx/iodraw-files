@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PjMvQfAvJv_li9OHeEi7-3" value="超参数特征&lt;div&gt;由K-Means聚合得来&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
