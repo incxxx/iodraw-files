@@ -19,11 +19,6 @@
         <mxCell id="PjMvQfAvJv_li9OHeEi7-2" value="时频域特征：&lt;div&gt;MFCC+delta+delta-delta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PjMvQfAvJv_li9OHeEi7-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PjMvQfAvJv_li9OHeEi7-3" value="超向量特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,21 +34,14 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-2" value="ASPP&lt;div&gt;空洞空间卷积池化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-3" value="BiLSTM&lt;div&gt;双向长短时记忆网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="315" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-4" value="BiLSTM&lt;div&gt;双向长短时记忆网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="315" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YhhXgh1la_clEhTJwIUR-14" value="K-Means聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
