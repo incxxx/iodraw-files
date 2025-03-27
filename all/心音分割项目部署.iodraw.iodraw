@@ -19,11 +19,6 @@
         <mxCell id="PjMvQfAvJv_li9OHeEi7-2" value="时频域特征：&lt;div&gt;MFCC+delta+delta-delta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PjMvQfAvJv_li9OHeEi7-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PjMvQfAvJv_li9OHeEi7-3" value="超向量特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="355" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,14 +34,8 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-2" value="ASPP&lt;div&gt;空洞空间卷积池化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-3" target="YhhXgh1la_clEhTJwIUR-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-3" value="BiLSTM&lt;div&gt;双向长短时记忆网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhhXgh1la_clEhTJwIUR-4" target="YhhXgh1la_clEhTJwIUR-25">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YhhXgh1la_clEhTJwIUR-4" value="BiLSTM&lt;div&gt;双向长短时记忆网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="120" height="45" as="geometry" />
@@ -60,11 +49,8 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-18" value="FC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-25" value="门控融合机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="460" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="530" width="50" height="30" as="geometry" />
+        <mxCell id="YhhXgh1la_clEhTJwIUR-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
