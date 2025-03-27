@@ -136,8 +136,8 @@
         <mxCell id="YhhXgh1la_clEhTJwIUR-53" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="730" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YhhXgh1la_clEhTJwIUR-55" value="Multihead-Self-Attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="670" width="120" height="30" as="geometry" />
+        <mxCell id="YhhXgh1la_clEhTJwIUR-55" value="Multihead-Self&lt;div&gt;Attention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
