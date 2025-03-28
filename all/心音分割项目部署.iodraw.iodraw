@@ -343,6 +343,9 @@
         <mxCell id="VqP6XVJSARQVOq2jcZvA-2" value="计算特征与中心的欧式距离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="80" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-4" value="计算特征与中心的欧式距离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="80" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
