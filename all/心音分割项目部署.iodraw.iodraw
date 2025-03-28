@@ -328,11 +328,17 @@
         <mxCell id="--YoOa9TTxWcgdUvb-Br-2" value="MFCC二阶差分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="--YoOa9TTxWcgdUvb-Br-3" target="--YoOa9TTxWcgdUvb-Br-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="--YoOa9TTxWcgdUvb-Br-3" value="∑" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="285" y="140" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="--YoOa9TTxWcgdUvb-Br-7" value="初始聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-2" value="初始聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
