@@ -359,7 +359,10 @@
           <mxGeometry x="247.5" y="420" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqP6XVJSARQVOq2jcZvA-9" value="No" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="30" height="30" as="geometry" />
+          <mxGeometry x="230" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-10" value="更新聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
