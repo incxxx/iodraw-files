@@ -343,7 +343,7 @@
         <mxCell id="VqP6XVJSARQVOq2jcZvA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqP6XVJSARQVOq2jcZvA-2" target="VqP6XVJSARQVOq2jcZvA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqP6XVJSARQVOq2jcZvA-2" value="计算特征与中心的欧式距离" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-2" value="计算特征与中心的欧式距离" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VqP6XVJSARQVOq2jcZvA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqP6XVJSARQVOq2jcZvA-4" target="VqP6XVJSARQVOq2jcZvA-6">
