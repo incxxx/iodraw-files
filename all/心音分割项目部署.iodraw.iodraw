@@ -204,6 +204,9 @@
         <mxCell id="2uxQssIQl1LluZSxEXTw-1" value="ASPP&lt;div&gt;空间空洞卷积池化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2uxQssIQl1LluZSxEXTw-2" value="ASPP&lt;div&gt;空间空洞卷积池化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
