@@ -355,14 +355,17 @@
         <mxCell id="VqP6XVJSARQVOq2jcZvA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqP6XVJSARQVOq2jcZvA-6" target="--YoOa9TTxWcgdUvb-Br-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqP6XVJSARQVOq2jcZvA-6" target="VqP6XVJSARQVOq2jcZvA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VqP6XVJSARQVOq2jcZvA-6" value="聚类中心不再变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="420" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqP6XVJSARQVOq2jcZvA-9" value="No" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VqP6XVJSARQVOq2jcZvA-10" value="更新聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="80" height="45" as="geometry" />
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-10" value="展平，拼接聚类中心向量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
