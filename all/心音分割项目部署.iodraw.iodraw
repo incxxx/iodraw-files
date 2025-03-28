@@ -367,6 +367,9 @@
         <mxCell id="VqP6XVJSARQVOq2jcZvA-10" value="展平，拼接聚类中心向量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="490" width="80" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="VqP6XVJSARQVOq2jcZvA-12" value="MFCC一阶差分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
