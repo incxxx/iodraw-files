@@ -310,10 +310,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TZPfXARPTFhhB9-5KYb3-1" value="K-Means聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TZPfXARPTFhhB9-5KYb3-1" value="MFCC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--YoOa9TTxWcgdUvb-Br-1" value="K-Means聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="--YoOa9TTxWcgdUvb-Br-1" value="MFCC一阶差分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--YoOa9TTxWcgdUvb-Br-2" value="K-Means聚类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
