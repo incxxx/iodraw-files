@@ -439,7 +439,7 @@
         <mxCell id="-fW8IAmJORyzT44N3Kik-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GLQfPmIdMyAUSvlKBMDd-6" target="-fW8IAmJORyzT44N3Kik-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GLQfPmIdMyAUSvlKBMDd-6" value="密集模块&lt;div&gt;dense_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GLQfPmIdMyAUSvlKBMDd-6" value="密集模块&lt;div&gt;dense_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="110" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-1" target="-fW8IAmJORyzT44N3Kik-13">
@@ -453,7 +453,7 @@
             <mxPoint x="280" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fW8IAmJORyzT44N3Kik-4" value="时频域降维模块&lt;div&gt;TFreducer_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-fW8IAmJORyzT44N3Kik-4" value="时频域降维模块&lt;div&gt;TFreducer_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-5" target="-fW8IAmJORyzT44N3Kik-10">
@@ -471,7 +471,7 @@
         <mxCell id="-fW8IAmJORyzT44N3Kik-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-10" target="-fW8IAmJORyzT44N3Kik-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-fW8IAmJORyzT44N3Kik-10" value="密集模块&lt;div&gt;dense_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-fW8IAmJORyzT44N3Kik-10" value="密集模块&lt;div&gt;dense_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-13" target="-fW8IAmJORyzT44N3Kik-16">
