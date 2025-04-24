@@ -401,7 +401,7 @@
         <mxCell id="TdGd1z-urrfbmpzHNN4G-3" value="位置编码&lt;div&gt;position_embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TdGd1z-urrfbmpzHNN4G-4" value="位置编码&lt;div&gt;position_embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TdGd1z-urrfbmpzHNN4G-4" value="多头注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
