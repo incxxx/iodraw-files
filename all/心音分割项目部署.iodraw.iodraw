@@ -429,7 +429,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="360" />
-              <mxPoint x="270" y="510" />
+              <mxPoint x="270" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -446,7 +446,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-1" value="∑" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="150" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="150" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-4">
           <mxGeometry relative="1" as="geometry">
@@ -478,7 +478,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-13" value="双向门控机制网络&lt;div&gt;BiGRU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="570" width="120" height="50" as="geometry" />
+          <mxGeometry x="220" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-16" value="全连接层&lt;div&gt;FC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="640" width="120" height="50" as="geometry" />
