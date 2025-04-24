@@ -477,6 +477,9 @@
         <mxCell id="-fW8IAmJORyzT44N3Kik-13" value="双向门控机制网络&lt;div&gt;BiGRU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="570" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-fW8IAmJORyzT44N3Kik-16" value="双向门控机制网络&lt;div&gt;BiGRU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
