@@ -425,6 +425,9 @@
         <mxCell id="GLQfPmIdMyAUSvlKBMDd-6" value="密集模块&lt;div&gt;dense_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="410" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-fW8IAmJORyzT44N3Kik-1" value="∑" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
