@@ -448,6 +448,9 @@
         <mxCell id="-fW8IAmJORyzT44N3Kik-4" value="位置编码&lt;div&gt;position_embedding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="340" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-fW8IAmJORyzT44N3Kik-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-5" target="-fW8IAmJORyzT44N3Kik-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-5" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="40" height="40" as="geometry" />
         </mxCell>
@@ -458,7 +461,7 @@
           <mxGeometry x="420" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-10" value="密集模块&lt;div&gt;dense_block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="420" width="120" height="50" as="geometry" />
+          <mxGeometry x="320" y="320" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
