@@ -480,10 +480,13 @@
         <mxCell id="-fW8IAmJORyzT44N3Kik-13" value="双向门控机制网络&lt;div&gt;BiGRU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="220" y="570" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-fW8IAmJORyzT44N3Kik-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-fW8IAmJORyzT44N3Kik-16" target="-fW8IAmJORyzT44N3Kik-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-fW8IAmJORyzT44N3Kik-16" value="全连接层&lt;div&gt;FC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="220" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-fW8IAmJORyzT44N3Kik-18" value="分类结果&lt;div&gt;Output&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="-fW8IAmJORyzT44N3Kik-18" value="分类结果&lt;div&gt;Output&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="220" y="690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
