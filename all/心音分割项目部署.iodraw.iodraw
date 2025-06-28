@@ -554,16 +554,16 @@
           <mxGeometry x="180" y="260" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-15" value="同态包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="270" y="260" width="40" height="80" as="geometry" />
+          <mxGeometry x="260" y="260" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-16" value="希尔伯特包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="40" height="80" as="geometry" />
+          <mxGeometry x="310" y="260" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-17" value="功率谱包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="260" width="40" height="80" as="geometry" />
+          <mxGeometry x="360" y="260" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-18" value="小波包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="420" y="260" width="40" height="80" as="geometry" />
+          <mxGeometry x="413.5" y="260" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
