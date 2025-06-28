@@ -595,7 +595,7 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-41" value="特征数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="690" y="260" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-42" value="特征数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="DxvStq18ZpDHvlnRoOON-42" value="分割结果" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="740" y="260" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
