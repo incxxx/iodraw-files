@@ -510,7 +510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RaYGRTRZYkO0X2NUJd8J" name="第 7 页">
-    <mxGraphModel dx="848" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,7 +568,7 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-30" value="非线性特征" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="403.5" y="260" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-32" value="信号特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DxvStq18ZpDHvlnRoOON-32" value="网络分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
