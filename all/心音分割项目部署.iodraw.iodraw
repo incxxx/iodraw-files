@@ -535,11 +535,6 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DxvStq18ZpDHvlnRoOON-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="210" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-5" value="网络分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="160" width="100" height="50" as="geometry" />
         </mxCell>
@@ -550,16 +545,7 @@
           <mxGeometry x="180" y="260" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-15" value="同态包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-16" value="希尔伯特包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="310" y="260" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-17" value="功率谱包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-18" value="小波包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="260" width="40" height="80" as="geometry" />
+          <mxGeometry x="370" y="240" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-24" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="100" height="50" as="geometry" />
