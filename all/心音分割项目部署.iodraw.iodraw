@@ -571,8 +571,8 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-32" value="网络分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-34" value="时域特征" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="270" width="40" height="80" as="geometry" />
+        <mxCell id="DxvStq18ZpDHvlnRoOON-34" value="可视化定位" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
