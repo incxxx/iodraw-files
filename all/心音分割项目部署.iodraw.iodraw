@@ -514,6 +514,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DxvStq18ZpDHvlnRoOON-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DxvStq18ZpDHvlnRoOON-1" target="DxvStq18ZpDHvlnRoOON-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DxvStq18ZpDHvlnRoOON-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DxvStq18ZpDHvlnRoOON-1" target="DxvStq18ZpDHvlnRoOON-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-1" value="心音信号分析系统工具" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="240" height="60" as="geometry" />
         </mxCell>
