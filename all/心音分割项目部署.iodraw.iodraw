@@ -559,7 +559,7 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-16" value="希尔伯特包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DxvStq18ZpDHvlnRoOON-17" value="希尔伯特包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="DxvStq18ZpDHvlnRoOON-17" value="功率谱包络" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
