@@ -550,11 +550,20 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DxvStq18ZpDHvlnRoOON-24" target="DxvStq18ZpDHvlnRoOON-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DxvStq18ZpDHvlnRoOON-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DxvStq18ZpDHvlnRoOON-24" target="DxvStq18ZpDHvlnRoOON-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DxvStq18ZpDHvlnRoOON-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DxvStq18ZpDHvlnRoOON-24" target="DxvStq18ZpDHvlnRoOON-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-24" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DxvStq18ZpDHvlnRoOON-28" value="频域特征" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DxvStq18ZpDHvlnRoOON-30" value="非线性特征" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
