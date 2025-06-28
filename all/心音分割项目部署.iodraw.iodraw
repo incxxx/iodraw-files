@@ -592,6 +592,12 @@
         <mxCell id="DxvStq18ZpDHvlnRoOON-40" value="预处理数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="640" y="260" width="40" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DxvStq18ZpDHvlnRoOON-41" value="特征数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DxvStq18ZpDHvlnRoOON-42" value="特征数据" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="40" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
