@@ -810,6 +810,9 @@
             <mxPoint x="290" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TEAhRm8HdG7__jJlDvFR-56" value="时频域特征：&lt;div&gt;STFT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
