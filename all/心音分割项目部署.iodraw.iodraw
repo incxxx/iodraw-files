@@ -817,7 +817,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="450" />
-              <mxPoint x="480" y="450" />
+              <mxPoint x="470" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -831,10 +831,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x6OWMhGgbKJ9VURPEIn--5" value="门控融合机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x6OWMhGgbKJ9VURPEIn--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6OWMhGgbKJ9VURPEIn--5" target="x6OWMhGgbKJ9VURPEIn--5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="430" y="480" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
