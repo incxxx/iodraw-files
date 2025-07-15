@@ -813,11 +813,14 @@
         <mxCell id="x6OWMhGgbKJ9VURPEIn--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEAhRm8HdG7__jJlDvFR-56" target="x6OWMhGgbKJ9VURPEIn--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x6OWMhGgbKJ9VURPEIn--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TEAhRm8HdG7__jJlDvFR-56" target="x6OWMhGgbKJ9VURPEIn--5">
+        <mxCell id="x6OWMhGgbKJ9VURPEIn--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549.94" y="160" as="sourcePoint" />
+            <mxPoint x="479.9988235294117" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="450" />
-              <mxPoint x="470" y="450" />
+              <mxPoint x="539.94" y="160" />
+              <mxPoint x="539.94" y="450" />
+              <mxPoint x="479.94" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -834,7 +837,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x6OWMhGgbKJ9VURPEIn--5" value="门控融合机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="430" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="440" y="480" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
