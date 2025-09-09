@@ -497,7 +497,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eTMjkmwulWU-5hTjWXbj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eTMjkmwulWU-5hTjWXbj-1" value="原始心音信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="60" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eTMjkmwulWU-5hTjWXbj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
