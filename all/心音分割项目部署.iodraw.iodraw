@@ -1116,6 +1116,9 @@
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-5" value="设定梅尔谱系数，计算Mel谱图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KBAWJXpAIAyEVM6BQMxo-6" target="KBAWJXpAIAyEVM6BQMxo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-6" value="对Mel谱取对数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="140" height="40" as="geometry" />
         </mxCell>
@@ -1123,7 +1126,7 @@
           <mxGeometry x="220" y="400" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-8" value="心音信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="400" y="400" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
