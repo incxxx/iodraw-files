@@ -1092,14 +1092,26 @@
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-1" value="心音信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KBAWJXpAIAyEVM6BQMxo-2" target="KBAWJXpAIAyEVM6BQMxo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-2" value="分帧、加窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KBAWJXpAIAyEVM6BQMxo-3" target="KBAWJXpAIAyEVM6BQMxo-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-3" value="DFT离散傅里叶变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KBAWJXpAIAyEVM6BQMxo-4" target="KBAWJXpAIAyEVM6BQMxo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-4" value="取DFT谱绝对值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KBAWJXpAIAyEVM6BQMxo-5" target="KBAWJXpAIAyEVM6BQMxo-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-5" value="设定梅尔谱系数，计算Mel谱图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="140" height="40" as="geometry" />
