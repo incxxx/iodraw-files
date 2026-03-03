@@ -1101,8 +1101,8 @@
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-5" value="设定梅尔谱系数，计算Mel谱图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KBAWJXpAIAyEVM6BQMxo-6" value="设定梅尔谱系数，计算Mel谱图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="140" height="40" as="geometry" />
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-6" value="对Mel谱取对数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
