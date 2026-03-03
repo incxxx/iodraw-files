@@ -1090,10 +1090,10 @@
           <mxGeometry x="240" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-2" value="分帧、加窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="120" width="140" height="40" as="geometry" />
+          <mxGeometry x="220" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KBAWJXpAIAyEVM6BQMxo-3" value="分帧、加窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="140" height="40" as="geometry" />
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-3" value="DFT离散傅里叶变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
