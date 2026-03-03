@@ -1095,6 +1095,9 @@
         <mxCell id="KBAWJXpAIAyEVM6BQMxo-3" value="DFT离散傅里叶变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KBAWJXpAIAyEVM6BQMxo-4" value="取DFT谱绝对值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
