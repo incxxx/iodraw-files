@@ -7,6 +7,9 @@
         <mxCell id="VVQJnII5du9eRProOcBD-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据清洗与标准化&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="280" width="430" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="VVQJnII5du9eRProOcBD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVQJnII5du9eRProOcBD-1" target="VVQJnII5du9eRProOcBD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVQJnII5du9eRProOcBD-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;原始医疗数据导入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="160" height="50" as="geometry" />
         </mxCell>
@@ -30,6 +33,9 @@
         </mxCell>
         <mxCell id="VVQJnII5du9eRProOcBD-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;自动预标注&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="400" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VVQJnII5du9eRProOcBD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VVQJnII5du9eRProOcBD-12" target="VVQJnII5du9eRProOcBD-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVQJnII5du9eRProOcBD-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加载预训练模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="427" width="160" height="50" as="geometry" />
