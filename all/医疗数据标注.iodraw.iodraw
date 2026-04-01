@@ -73,6 +73,9 @@
         <mxCell id="VVQJnII5du9eRProOcBD-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;确认通过，导出&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="550" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VVQJnII5du9eRProOcBD-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;原始医疗数据导入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
