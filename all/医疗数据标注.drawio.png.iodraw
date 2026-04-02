@@ -135,6 +135,9 @@
         <mxCell id="j7N0j61aaTM7_FeHk_iS-12" value="模型更新输入的数据&lt;div&gt;重新学习标签分布&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j7N0j61aaTM7_FeHk_iS-1">
           <mxGeometry x="180" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="j7N0j61aaTM7_FeHk_iS-13" value="医生结合临床经验&lt;div&gt;做出诊断&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j7N0j61aaTM7_FeHk_iS-1">
+          <mxGeometry x="20" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
