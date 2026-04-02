@@ -176,7 +176,7 @@
         <mxCell id="X4VjSY-OOr5fiw8P53A7-3" value="训练专用&lt;div&gt;AI诊断/分诊模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X4VjSY-OOr5fiw8P53A7-4" value="训练专用&lt;div&gt;AI诊断/分诊模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X4VjSY-OOr5fiw8P53A7-4" value="模型部署于诊疗前端&lt;div&gt;（门诊、急诊）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
