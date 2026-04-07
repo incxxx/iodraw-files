@@ -223,6 +223,9 @@
         <mxCell id="hJRyHYp0rnQh6qieW0w1-7" value="结构管理与导出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="281" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hJRyHYp0rnQh6qieW0w1-8" value="结构管理与导出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
