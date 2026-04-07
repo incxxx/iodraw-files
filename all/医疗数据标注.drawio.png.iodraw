@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YVFRSXfHM8YSy7FTA_R4" name="第 5 页">
-    <mxGraphModel dx="391" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
           <mxGeometry x="413.5" y="337" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-24" value="调阅多人标注对比&lt;div&gt;依据经验进行核验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="337" width="120" height="30" as="geometry" />
+          <mxGeometry x="413" y="367" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
