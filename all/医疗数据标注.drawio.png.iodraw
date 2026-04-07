@@ -280,8 +280,8 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-9" value="标记可疑样本&lt;div&gt;进入人工复审队列&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZmvaHrnZHIrJEQ57b-5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zZmvaHrnZHIrJEQ57b-5-4" target="zZmvaHrnZHIrJEQ57b-5-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-13" value="调阅多人标注对比&lt;div&gt;依据经验进行核验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
