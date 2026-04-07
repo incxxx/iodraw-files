@@ -217,6 +217,9 @@
         <mxCell id="hJRyHYp0rnQh6qieW0w1-3" value="智能标注模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hJRyHYp0rnQh6qieW0w1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJRyHYp0rnQh6qieW0w1-6" target="hJRyHYp0rnQh6qieW0w1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hJRyHYp0rnQh6qieW0w1-6" value="智能标注模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="160" height="40" as="geometry" />
         </mxCell>
