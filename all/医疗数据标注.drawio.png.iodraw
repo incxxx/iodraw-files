@@ -244,7 +244,10 @@
           <mxGeometry x="200" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-3" value="选择审核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="131" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-4" value="选择审核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
