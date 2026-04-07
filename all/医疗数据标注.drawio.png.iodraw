@@ -310,6 +310,9 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-20" value="审核需修改&lt;div&gt;创建返修工程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="337" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZmvaHrnZHIrJEQ57b-5-21" target="zZmvaHrnZHIrJEQ57b-5-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-21" value="审核疑难争议&lt;div&gt;提交专家团队评议&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="337" width="120" height="30" as="geometry" />
         </mxCell>
@@ -318,6 +321,9 @@
         </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-27" value="专家团队给出最终评估结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-29" value="原标注员重新标注&lt;div&gt;结果二次审核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
