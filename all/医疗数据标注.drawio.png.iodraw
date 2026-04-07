@@ -268,7 +268,7 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-4" value="人工详细审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZmvaHrnZHIrJEQ57b-5-8" value="自动化规则初筛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-8" value="根据预设逻辑检查，计算一致性系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
