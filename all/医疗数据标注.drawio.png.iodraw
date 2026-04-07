@@ -286,7 +286,7 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-13" value="调阅多人标注对比&lt;div&gt;依据经验进行核验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZmvaHrnZHIrJEQ57b-5-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-15" value="审核决策" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
