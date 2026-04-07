@@ -310,7 +310,7 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-20" value="审核需修改&lt;div&gt;创建返修工程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="337" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZmvaHrnZHIrJEQ57b-5-21" value="调阅多人标注对比&lt;div&gt;依据经验进行核验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-21" value="审核疑难争议&lt;div&gt;提交专家团队评议&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="337" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-25" value="原标注员重新标注&lt;div&gt;结果二次审核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
