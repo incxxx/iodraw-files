@@ -240,6 +240,9 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-1" value="质检员登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-2" value="选择审核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
