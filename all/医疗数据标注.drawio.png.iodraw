@@ -330,20 +330,14 @@
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-25" value="原标注员重新标注&lt;div&gt;结果二次审核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZmvaHrnZHIrJEQ57b-5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zZmvaHrnZHIrJEQ57b-5-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340.0000000000001" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="430" />
-              <mxPoint x="340" y="430" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zZmvaHrnZHIrJEQ57b-5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZmvaHrnZHIrJEQ57b-5-27" target="zZmvaHrnZHIrJEQ57b-5-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-27" value="专家团队给出最终评估结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zZmvaHrnZHIrJEQ57b-5-29" value="更新最终标注结果&lt;div&gt;生成标注流程报告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="450" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
