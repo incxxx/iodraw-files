@@ -81,7 +81,7 @@
         <mxCell id="jlhbYnl5m7U1HKwdvj69-10" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: bold; font-size: 14px;&quot;&gt;链下数据与证据&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;交易哈希、JSON证据&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlhbYnl5m7U1HKwdvj69-11" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;FISCO BCOS 2.11.0联盟链&lt;/b&gt;&lt;br&gt;5组织 x 4节点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jlhbYnl5m7U1HKwdvj69-11" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;FISCO BCOS 2.11.0联盟链&lt;/b&gt;&lt;br&gt;5组织 × 4节点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="430" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jlhbYnl5m7U1HKwdvj69-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlhbYnl5m7U1HKwdvj69-13" target="jlhbYnl5m7U1HKwdvj69-11">
