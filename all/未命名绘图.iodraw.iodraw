@@ -16,7 +16,7 @@
         <mxCell id="lWtO07e4rwB7CbGfRRU7-4" value="链下数据与证据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lWtO07e4rwB7CbGfRRU7-5" value="业务服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lWtO07e4rwB7CbGfRRU7-5" value="区块链接入与管理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
