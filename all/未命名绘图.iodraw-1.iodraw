@@ -14,10 +14,13 @@
           <mxGeometry x="87.96000000000001" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czX5oI0LqHx7ubrLvG-D-4" value="数据库文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="379.27" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="379.27" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czX5oI0LqHx7ubrLvG-D-5" value="CPU:Intel Core I7&lt;div&gt;NPU:NVIDIA 4060&lt;/div&gt;&lt;div&gt;内存：32GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 2TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="72.96000000000001" y="290" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-6" value="CPU:Intel Core I7&lt;div&gt;NPU:NVIDIA 4060&lt;/div&gt;&lt;div&gt;内存：32GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 2TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="364.27" y="290" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
