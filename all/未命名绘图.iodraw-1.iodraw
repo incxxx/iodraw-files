@@ -11,7 +11,7 @@
           <mxGeometry x="390" y="137" width="98.53" height="96" as="geometry" />
         </mxCell>
         <mxCell id="czX5oI0LqHx7ubrLvG-D-3" value="测试计算机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="100.00000000000001" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
