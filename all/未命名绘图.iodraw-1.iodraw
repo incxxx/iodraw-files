@@ -22,9 +22,9 @@
         <mxCell id="czX5oI0LqHx7ubrLvG-D-6" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;font style=&quot;&quot;&gt;华北农灌区&lt;/font&gt;&lt;font style=&quot;&quot;&gt;_&lt;/font&gt;&lt;font style=&quot;&quot;&gt;标准化数据库&lt;/font&gt;&lt;font style=&quot;&quot;&gt;.db&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;样品记录816条&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;（常规组分410条、同位素175条、新污染物231条）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;测试数据3282条&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;&lt;font style=&quot;&quot;&gt;共&lt;/font&gt;&lt;font style=&quot;&quot;&gt;5&lt;/font&gt;&lt;font style=&quot;&quot;&gt;张数据表&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="296.5" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="sourcePoint" />
             <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
