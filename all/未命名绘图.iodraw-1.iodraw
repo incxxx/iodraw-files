@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="czX5oI0LqHx7ubrLvG-D-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="100" y="130" width="81.17" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
