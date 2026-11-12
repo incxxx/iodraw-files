@@ -1,33 +1,41 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="yYwcJYfBBmBaXOZJNFim">
-    <mxGraphModel dx="847" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
           <mxGeometry x="100" y="110" width="95.93" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_file_system_infrequent_access;" vertex="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_file_system_infrequent_access;" parent="1" vertex="1">
           <mxGeometry x="525.73" y="133.5" width="98.53" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-3" value="测试计算机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-3" value="测试计算机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="87.96000000000001" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-4" value="数据库文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-4" value="数据库文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="515" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-5" value="CPU:Intel Core I7&lt;div&gt;NPU:NVIDIA 4060&lt;/div&gt;&lt;div&gt;内存：32GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 2TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-5" value="CPU:Intel Core I7&lt;div&gt;NPU:NVIDIA 4060&lt;/div&gt;&lt;div&gt;内存：32GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 2TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="62.96000000000001" y="290" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-6" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;font style=&quot;&quot;&gt;华北农灌区&lt;/font&gt;&lt;font style=&quot;&quot;&gt;_&lt;/font&gt;&lt;font style=&quot;&quot;&gt;标准化数据库&lt;/font&gt;&lt;font style=&quot;&quot;&gt;.db&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;样品记录816条&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;（常规组分410条、同位素175条、新污染物231条）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;测试数据3282条&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;&lt;font style=&quot;&quot;&gt;共&lt;/font&gt;&lt;font style=&quot;&quot;&gt;5&lt;/font&gt;&lt;font style=&quot;&quot;&gt;张数据表&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-6" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;font style=&quot;&quot;&gt;华北农灌区&lt;/font&gt;&lt;font style=&quot;&quot;&gt;_&lt;/font&gt;&lt;font style=&quot;&quot;&gt;标准化数据库&lt;/font&gt;&lt;font style=&quot;&quot;&gt;.db&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;样品记录816条&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;（常规组分410条、同位素175条、新污染物231条）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;测试数据3282条&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;dke_06F4WYKsAe1ekSK9&quot;&gt;&lt;font style=&quot;&quot;&gt;共&lt;/font&gt;&lt;font style=&quot;&quot;&gt;5&lt;/font&gt;&lt;font style=&quot;&quot;&gt;张数据表&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" y="296.5" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="czX5oI0LqHx7ubrLvG-D-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="czX5oI0LqHx7ubrLvG-D-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="200" as="sourcePoint" />
             <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-hCEvWi8WaB-4JmlTqet" name="第 2 页">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
