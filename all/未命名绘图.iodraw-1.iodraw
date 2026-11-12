@@ -50,8 +50,8 @@
         </mxCell>
         <mxCell id="j0pGZ9e1wzgz9earLcpF-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="220" as="sourcePoint" />
-            <mxPoint x="230" y="370" as="targetPoint" />
+            <mxPoint x="470" y="110" as="sourcePoint" />
+            <mxPoint x="195.93" y="285.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0pGZ9e1wzgz9earLcpF-8" value="&lt;div&gt;来源：&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot;&gt;南京航空航天大学&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;数量/采样点：30006/5001&lt;br&gt;功能：将支反力与轴承座频响函数结合，计算测点加速度频谱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
