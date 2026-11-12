@@ -42,8 +42,8 @@
         <mxCell id="j0pGZ9e1wzgz9earLcpF-3" value="测试计算机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="87.96000000000001" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-4" value="仿真数据文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="505" y="250" width="140" height="40" as="geometry" />
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-4" value="支反力时域仿真数据文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="455" y="250" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j0pGZ9e1wzgz9earLcpF-5" value="CPU:AMD Ryzen7 5800H&lt;div&gt;NPU:NVIDIA 1650&lt;/div&gt;&lt;div&gt;内存：16GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 1.8TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="37.96000000000001" y="290" width="220" height="90" as="geometry" />
