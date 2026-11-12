@@ -54,8 +54,8 @@
             <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-8" value="支反力时域数据文件&lt;div&gt;来源：轴承模型输出的三向支反力时程&lt;/div&gt;&lt;div&gt;采样点：5001&lt;br&gt;功能：&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="425" y="290" width="300" height="90" as="geometry" />
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-8" value="支反力时域数据文件&lt;div&gt;来源：轴承模型输出的三向支反力时程&lt;/div&gt;&lt;div&gt;采样点：5001&lt;br&gt;功能：将支反力与轴承座频响函数结合，计算测点加速度频谱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="345" y="290" width="460" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G-dud7t7LxcPaODTCIrx-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_set;" vertex="1" parent="1">
           <mxGeometry x="530" y="124.28" width="93.46" height="115.72" as="geometry" />
