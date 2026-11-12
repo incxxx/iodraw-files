@@ -36,29 +36,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
           <mxGeometry x="100" y="110" width="95.93" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_file_system_infrequent_access;" vertex="1" parent="1">
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_file_system_infrequent_access;" parent="1" vertex="1">
           <mxGeometry x="525.73" y="133.5" width="98.53" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-3" value="仿真测试计算机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-3" value="仿真测试计算机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="67.96000000000001" y="250" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-4" value="仿真数据文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-4" value="仿真数据文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="505" y="250" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-5" value="CPU:AMD Ryzen7 5800H&lt;div&gt;NPU:NVIDIA 1650&lt;/div&gt;&lt;div&gt;内存：16GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 1.8TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-5" value="CPU:AMD Ryzen7 5800H&lt;div&gt;NPU:NVIDIA 1650&lt;/div&gt;&lt;div&gt;内存：16GB&lt;/div&gt;&lt;div&gt;硬盘：SSD 1.8TB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="37.96000000000001" y="290" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="200" as="sourcePoint" />
             <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0pGZ9e1wzgz9earLcpF-8" value="支反力时域数据文件&lt;div&gt;共5000余条&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="490" y="310" width="170" height="50" as="geometry" />
+        <mxCell id="j0pGZ9e1wzgz9earLcpF-8" value="支反力时域数据文件&lt;div&gt;记录轴承模型输出的三向支反力时程&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="435" y="310" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
